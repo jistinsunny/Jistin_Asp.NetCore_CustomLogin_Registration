@@ -1,8 +1,5 @@
 # Jistin_Asp.NetCore_CustomLogin_Registration
 
 ## Description
-This is a sample project to demonstrate the custom login and registration using asp.net core.
-## Installation
+This sample project demonstrates custom login and registration using asp.net core.
 
-```bash
-npm install
